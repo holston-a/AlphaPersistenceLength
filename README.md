@@ -11,7 +11,7 @@ To use it, follow these steps:
   - **Your calculated persistence length appears at the bottom**
 
 
-#### Tech
+### Tech
 
 AlphaPersistenceLength uses a couple of free and open source projects to work properly:
 
