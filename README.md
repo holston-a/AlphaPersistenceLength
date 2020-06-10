@@ -5,7 +5,7 @@ AlphaPersistenceLength is a program written in Python 3 to calculate the persist
 To use it, follow these steps:
   - Move the .pdb file of your alpha helix into your working directory
   - At the top of the program, assign the name of your pdb file to the variable "YOUR_PDB_FILE_HERE"
-  - At the top of the last cell, on the third line, change the middle value in ````range(1,CHANGETHISONE,4)```` to (# of total residues - 4).
+  - At the top of the last cell, on the third line, change the middle value in ````range(1,CHANGETHISONE,4)```` to (#total residues - 4).
   - Run all the cells
   - The magic happens relatively fast
   - **Your calculated persistence length appears at the bottom**
